@@ -1,0 +1,12 @@
+<!--index.wxml-->
+<page-meta>
+  <navigation-bar
+    title="{{nbTitle}}"
+  />
+</page-meta>
+<view class="container">
+  
+  <view>{{title}}</view>
+  
+  <input type="text" class="" placeholder="请输入答案" />
+</view>
